@@ -1,0 +1,18 @@
+README
+-------------------------------------------------------------------------------
+
+Name: Presentation Timer
+Description: A presenation timer that can be used to show the presenter how 
+	     much time has elapsed. It can also warn them when their alloted 
+	     time is running out be changing the background color.
+Version: 0.1
+Author: Wiktor Starzyk
+
+USAGE
+-------------------------------------------------------------------------------
+
+spacebar	starts and stops the time
+r 		resets the timer
+q 		quits the application
+
+Currently the timer is hardcoded for 2 minutes.
