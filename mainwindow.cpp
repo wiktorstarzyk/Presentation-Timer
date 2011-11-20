@@ -93,7 +93,7 @@ void MainWindow::keyPressEvent(QKeyEvent *event)
         cur_time = 0;
         timer->stop();
         time_label->setText("00:00");
-        time_label->setStyleSheet("QLabel { background-color : rgb(255, 255, 127) }");
+        time_label->setStyleSheet("QLabel { background-color : rgb(85, 255, 127) }");
     }
     // The Q key is used to quite the application
     else if (event->key() == Qt::Key_Q)
