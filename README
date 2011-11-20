@@ -8,6 +8,12 @@ Description: A presenation timer that can be used to show the presenter how
 Version: 0.1
 Author: Wiktor Starzyk
 
+REQUIREMENTS
+-------------------------------------------------------------------------------
+
+Qt 4.7
+
+
 USAGE
 -------------------------------------------------------------------------------
 
